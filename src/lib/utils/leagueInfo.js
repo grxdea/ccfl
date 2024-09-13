@@ -1,5 +1,5 @@
 /*   STEP 1   */
-export const leagueID = "054536221097062400"; // your league ID
+export const leagueID = "1054536221097062400"; // your league ID
 export const leagueName = "Couch Coach Fantasy League (CCFL)"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
